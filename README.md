@@ -5,8 +5,8 @@
 ## I'm a Software Developer from India !!
 
 - 🌱 I’m currently learning everything 🤣
-- 📫 How to reach me gdhibar61@hotmail.com
-- 🥅 2022 Goals: Contribute more to Open Source projects 🤣
+- 📫 How to reach me ganeshdhibar131@gmail.com
+- 🥅 2026 Goals: Contribute more to Open Source projects 🤣
 - ⚡ Fun fact: I love to play music
 
 ### Spotify Playing 🎧
