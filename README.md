@@ -1,63 +1,113 @@
-### Hi 👋 there, I'm Ganesh Dhibar 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ganeshdhibar007?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fganeshdhibar&screen_name=ganeshdhibar007)
+<div align="center">
 
-## I'm a Software Developer from India !!
+# Hey, I'm Ganesh Dhibar 👋
 
-- 🌱 I’m currently learning everything 🤣
-- 📫 How to reach me ganeshdhibar131@gmail.com
-- 🥅 2026 Goals: Contribute more to Open Source projects 🤣
-- ⚡ Fun fact: I love to play music
+### Software Engineer | DevOps & Cloud Engineer | Technical Architect
 
-### Spotify Playing 🎧
+Building scalable applications, reliable infrastructure, and intelligent automation.
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganeshdhibar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Website](https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bitspaces.in)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshdhibar131@gmail.com)
 
-### Connect with me:
-
-[<img align="left" alt="Ganesh Dhibar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Ganesh Dhibar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ganesh dhibar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Ganesh dhibar | Dev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][dev]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Spring Boot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
-<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<br />
-<br />
+</div>
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
+## 👨‍💻 About Me
 
-<!--END_SECTION:activity-->
+I'm a software engineer passionate about building technology products, designing scalable systems, and automating infrastructure.
 
-</details>
+My work combines software engineering with DevOps, cloud computing, and system architecture.
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+- 🚀 Building scalable web applications and backend systems.
+- ☁️ Working with cloud infrastructure and server architecture.
+- ⚙️ Automating deployments and CI/CD pipelines.
+- 🐳 Working with Docker and Kubernetes.
+- 🔧 Designing reliable, secure, and maintainable systems.
+- 💡 Exploring AI/ML and intelligent automation.
 
-  <img align="left" alt="Ganesh Dhibar's GitHub Stats" src="https://github-readme-stats-ganeshdhibar.vercel.app/api?username=ganeshdhibar&show_icons=true&hide_border=true" />
+---
 
-</details>
+## 🛠️ Technical Expertise
 
-[twitter]: https://twitter.com/ganeshdhibar007
-[instagram]: https://www.instagram.com/ganesh.dhibar/
-[linkedin]: https://www.linkedin.com/in/ganesh-dhibar-a8607382/
-[Dev]: https://dev.to/ganeshdhibar
+| Domain | Technologies |
+|---|---|
+| Backend | Node.js, Java, PHP, Laravel, Python |
+| Frontend | React.js, JavaScript |
+| Mobile | React Native, Flutter |
+| Databases | PostgreSQL, MySQL, MongoDB |
+| Cloud | AWS, Google Cloud, Azure |
+| DevOps | Docker, Kubernetes, K3s |
+| Automation | GitHub Actions, CI/CD, Terraform |
+| Monitoring | Grafana, Prometheus |
+| Infrastructure | Linux, Ubuntu, Nginx |
+
+---
+
+## ⚡ Technology Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,kubernetes,nginx,aws,gcp,azure,terraform,githubactions" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,php,laravel,python,react,js,html,css" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,git,github,vscode,bash,grafana,prometheus" />
+
+</div>
+
+---
+
+## ☁️ DevOps & Cloud Engineering
+
+- Containerization and orchestration
+- Cloud infrastructure management
+- Linux server administration
+- CI/CD pipeline implementation
+- Automated application deployments
+- Reverse proxy and web server configuration
+- Database administration and optimization
+- Infrastructure monitoring and troubleshooting
+
+---
+
+## 🚀 Featured Projects
+
+Explore my repositories for software engineering, backend development, cloud infrastructure, and automation projects.
+
+[![Repositories](https://img.shields.io/badge/Explore-My_Repositories-blue?style=for-the-badge&logo=github)](https://github.com/ganeshdhibar?tab=repositories)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ganeshdhibar&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshdhibar&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshdhibar&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Build Something Great Together
+
+**Think. Engineer. Innovate. Scale.**
+
+Open to meaningful collaborations, innovative projects, and engineering challenges.
+
+⭐ Thanks for visiting my profile!
+
+</div>
