@@ -9,7 +9,6 @@ Building scalable applications, reliable infrastructure, and intelligent automat
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganeshdhibar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Website](https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bitspaces.in)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshdhibar131@gmail.com)
 
 </div>
@@ -90,11 +89,7 @@ Explore my repositories for software engineering, backend development, cloud inf
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ganeshdhibar&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshdhibar&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshdhibar&theme=tokyonight&hide_border=true" />
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshdhibar&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
